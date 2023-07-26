@@ -1,0 +1,10 @@
+* cl-bloggy
+
+A simple extendable blogging system to use with Hunchentoot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/cl-bloggy.git   |
+| commit  | 9a22c99  |
+| systems | cl-bloggy |
+|---------+-------------------------------------------|
+
